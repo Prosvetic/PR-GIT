@@ -1,2 +1,1 @@
-# PR-GIT
-Ознакомление с системой контроля версий
+Hello! My name is Yaroslav. Nice to meet you!
